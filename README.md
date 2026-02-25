@@ -215,3 +215,8 @@ To **completely reset** the environment (including clearing the database), run:
 ```bash
 docker-compose down -v
 ```
+
+--- 
+
+# Ack
+We acknowledge the support of the project PHaSE (CUP H53D23003530006) - Promoting Healthy and Sustainable Eating through Interactive and Explainable AI Methods, funded by MUR under the PRIN program
