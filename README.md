@@ -1,3 +1,11 @@
+# Ack
+We acknowledge the support of the project PHaSE (CUP H53D23003530006) - Promoting Healthy and Sustainable Eating through Interactive and Explainable AI Methods, funded by MUR under the PRIN program
+
+![LOGO PRIN](logo.png)
+
+---
+
+
 # 🌱E-Mealio: A Chat Agent for Sustainable and Healthy Recipes Suggestions
 
 A project originally developed by **Antonio Raffaele Iacovazzi** as part of his *Master’s Thesis in Computer Science*, with the goal of developing a chat-based agent that helps users adopt sustainable food habits.
@@ -216,7 +224,3 @@ To **completely reset** the environment (including clearing the database), run:
 docker-compose down -v
 ```
 
---- 
-
-# Ack
-We acknowledge the support of the project PHaSE (CUP H53D23003530006) - Promoting Healthy and Sustainable Eating through Interactive and Explainable AI Methods, funded by MUR under the PRIN program
